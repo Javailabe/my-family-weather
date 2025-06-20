@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Oslo",
+    "latitude": 59.9139,
+    "longitude": 10.7522
+  },
+  {
+    "name": "London",
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  {
+    "name": "Sao Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333
+  },
+  {
+    "name": "Canberra",
+    "latitude": -35.2809,
+    "longitude": 149.1300
+  }
+]
